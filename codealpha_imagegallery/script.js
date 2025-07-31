@@ -1,17 +1,17 @@
 function fun1(){
-    document.getElementById("photo").src="./photos/1.jpg"
+    document.getElementById("photo").src="./1.jpg"
 }
 function fun2(){
-    document.getElementById("photo").src="./photos/2.png"
+    document.getElementById("photo").src="./2.png"
 }
 function fun3(){
-    document.getElementById("photo").src="./photos/3.png"
+    document.getElementById("photo").src="./3.png"
 }
 function fun4(){
-    document.getElementById("photo").src="./photos/4.png"
+    document.getElementById("photo").src="./4.png"
 }
 function fun5(){
-    document.getElementById("photo").src="./photos/5.jpg"
+    document.getElementById("photo").src="./5.jpg"
 }
 function fun6(){
     document.getElementById("photo").src="./photos/6.jpg"
